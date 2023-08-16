@@ -1,0 +1,19 @@
+h1{
+    color:#1E90FF;
+    text-transform: uppercase;
+}
+
+a{
+    color:crimson;
+
+}
+
+h2{
+    font-family:cursive;
+}
+
+li{
+    list-style-position: inside;
+    text-align: inside;
+}
+
